@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxandMin", "MaxandMin\Maxa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven", "OddEven\OddEven.csproj", "{11DEC278-7E73-4ABC-88B7-379A5CACB12F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListDemo", "ArrayListDemo\ArrayListDemo.csproj", "{66AC4ED2-B811-4D24-8956-0F88338D3EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenricsSorting", "GenricsSorting\GenricsSorting.csproj", "{BD7A752A-DDD3-4FFE-9021-58BB8B28768D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{11DEC278-7E73-4ABC-88B7-379A5CACB12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11DEC278-7E73-4ABC-88B7-379A5CACB12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11DEC278-7E73-4ABC-88B7-379A5CACB12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AC4ED2-B811-4D24-8956-0F88338D3EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AC4ED2-B811-4D24-8956-0F88338D3EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AC4ED2-B811-4D24-8956-0F88338D3EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AC4ED2-B811-4D24-8956-0F88338D3EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7A752A-DDD3-4FFE-9021-58BB8B28768D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7A752A-DDD3-4FFE-9021-58BB8B28768D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7A752A-DDD3-4FFE-9021-58BB8B28768D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7A752A-DDD3-4FFE-9021-58BB8B28768D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
