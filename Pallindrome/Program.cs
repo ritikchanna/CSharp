@@ -11,9 +11,9 @@ namespace Pallindrome
         public static void Main()
         {
             Console.Write("Input String to be checked: ");
-            string line = Console.ReadLine();
+            string line = Console.ReadLine().Trim();
             bool isPalindrome = IsPalindrome(line);
-            if (isPalindrome == true)
+            if (isPalindrome)
                 Console.WriteLine(line + " is Palindrome");
             else
                 Console.WriteLine(line + " is not Palindrome");
